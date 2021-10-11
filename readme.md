@@ -8,6 +8,7 @@ I'm Ansh Rathod. I mostly contribute with my flutter and web apps . I am always 
 [![Linkedin Badge](https://img.shields.io/badge/Ansh-rathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansh-rathod-478a81210/)](https://www.linkedin.com/in/ansh-rathod-478a81210/)
 [![Twitter Badge](https://img.shields.io/badge/appiirathod-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/appiirathod/)](https://twitter.com/appiirathod)
 [![Gmail Badge](https://img.shields.io/badge/anshrathod29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshrathod29@gmail.com)](mailto:anshrathod29@gmail.com)
+
 <br>
 
 ## ⚡ Technologies
@@ -17,6 +18,7 @@ I'm Ansh Rathod. I mostly contribute with my flutter and web apps . I am always 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![dart](https://img.shields.io/badge/-Dart-purple?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=dart)
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Nextjs-green?style=flat-square&logo=nextjs)
