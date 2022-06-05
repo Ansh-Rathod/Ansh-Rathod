@@ -1,4 +1,4 @@
-## Hey, What's up? <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hey, What's up?
 
 <br>
 I'm Ansh Rathod. I mostly contribute with my flutter and web apps . I am always open to collaborating on projects with innovative ideas. Find out more about me & feel free to connect with me on my socials
