@@ -26,7 +26,7 @@ I'm Ansh Rathod. I mostly contribute with my flutter and web apps . I am always 
 ![](https://github-profile-trophy.vercel.app/?username=Ansh-Rathod&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ansh-Rathod&icon=2&color=1)](https://visitcount.itsvg.in)
