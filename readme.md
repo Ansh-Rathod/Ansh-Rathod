@@ -8,7 +8,7 @@ I'm Ansh Rathod. I mostly contribute with my flutter and web apps . I am always 
 - 🌱 I’m currently building more full stack mobile apps.
 - 👯 I’m looking to collaborate on Full-Stack mobile app ideas.
 - 💬 Ask me about Flutter or any web-related stuff.
-- 📫 How to reach me: Twitter - @appiirathod.
+- 📫 How to reach me: Twitter - @appiirathod or Email: anshrathod29@gmail.com.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours in front of laptop every day.
 
