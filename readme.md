@@ -8,8 +8,8 @@ I'm Ansh Rathod a Full-stack developer. I mostly contribute with my flutter and 
 
 # 💫About Me :
 - 🔭 I’m currently working on Flutter & node.js.
-- 🌱 I’m currently building more full stack mobile apps.
-- 👯 I’m looking to collaborate on Full-Stack mobile app ideas.
+- 🌱 Focusing on more full-stack mobile apps.
+- 👯 Looking to collaborate on Full-Stack mobile app ideas.
 - 💬 Ask me about Flutter or any web-related stuff.
 - 📫 How to reach me: Twitter - <a href="https://twitter.com/AnshhRathod">@AnshhRathod</a> or Email: anshrathod29@gmail.com.
 - 😄 Pronouns: He/His
