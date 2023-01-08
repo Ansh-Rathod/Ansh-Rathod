@@ -11,7 +11,7 @@ I'm Ansh Rathod a Full-stack developer. I mostly contribute with my flutter and 
 - 🌱 Focusing on more full-stack mobile apps.
 - 👯 Looking to collaborate on Full-Stack mobile app ideas.
 - 💬 Ask me about Flutter or any web-related stuff.
-- 📫 How to reach me: Twitter - <a href="https://twitter.com/AnshhRathod">@AnshhRathod</a> or Email: anshrathod29@gmail.com.
+- 📫 How to reach me: Twitter - <a href="https://twitter.com/anshrathodfr">@anshrathodfr</a> or Email: anshrathod29@gmail.com.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours in front of laptop every day.
 
@@ -27,7 +27,7 @@ I'm Ansh Rathod a Full-stack developer. I mostly contribute with my flutter and 
 ## 🌐Socials
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshrathodfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-rathod-478a81210) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnshhRathod) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshrathodfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-rathod-478a81210) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshrathodfr) 
 
 <br/>
 
